@@ -6,10 +6,10 @@ go 1.19
 
 require (
 	github.com/tullo/otel-workshop v1.0.1
-	go.opentelemetry.io/otel v1.12.0
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.12.0
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.12.0
-	go.opentelemetry.io/otel/sdk v1.12.0
+	go.opentelemetry.io/otel v1.13.0
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.13.0
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.13.0
+	go.opentelemetry.io/otel/sdk v1.13.0
 )
 
 require (
@@ -22,9 +22,9 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.38.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.38.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.12.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.13.0 // indirect
 	go.opentelemetry.io/otel/metric v0.35.0 // indirect
-	go.opentelemetry.io/otel/trace v1.12.0 // indirect
+	go.opentelemetry.io/otel/trace v1.13.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.19.0 // indirect
 	golang.org/x/net v0.5.0 // indirect
 	golang.org/x/sys v0.4.0 // indirect
